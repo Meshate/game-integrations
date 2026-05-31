@@ -2,19 +2,19 @@
     "format": 1,
     "games": [
         {
-            "url": "https://raw.githubusercontent.com/an-anime-team/game-integrations/refs/heads/master/games/votv/manifest.json",
+            "url": "https://raw.githubusercontent.com/Meshate/game-integrations/refs/heads/master/games/genshin/manifest.json",
             "featured": true
         },
         {
-            "url": "https://raw.githubusercontent.com/an-anime-team/game-integrations/refs/heads/master/games/nikke/manifest.json",
+            "url": "https://raw.githubusercontent.com/Meshate/game-integrations/refs/heads/master/games/hsr/manifest.json",
             "featured": true
         },
         {
-            "url": "https://raw.githubusercontent.com/an-anime-team/game-integrations/refs/heads/master/games/mindustry/manifest.json",
+            "url": "https://raw.githubusercontent.com/Meshate/game-integrations/refs/heads/master/games/neverness-to-everness/manifest.json",
             "featured": true
         },
         {
-            "url": "https://raw.githubusercontent.com/an-anime-team/game-integrations/refs/heads/master/games/factorio/manifest.json",
+            "url": "https://raw.githubusercontent.com/Meshate/game-integrations/refs/heads/master/games/zzz/manifest.json",
             "featured": true
         }
     ]
